@@ -15,11 +15,9 @@
 <h3><img style='width: 40px' src='https://c.tenor.com/DcDYpWonGbIAAAAi/budding-pop-cute.gif'> Pronouns: He/ him/ his.</h3><br/>
 
 
-<p float="left">
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=janek2204&show_icons=true&theme=noctis_minimus" width="660" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janek2204&show_icons=true&theme=noctis_minimus" width="300">
-</p>
+![Piotr's github stats](https://github-readme-stats.vercel.app/api?username=janek2204&show_icons=true&theme=noctis_minimus) 
+![Piotr's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=janek2204&show_icons=true&theme=noctis_minimus)
+
 
 
 

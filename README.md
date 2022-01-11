@@ -1,4 +1,4 @@
-<div align='center'><h1> Hi there 👋</h1></div>
+<div align='center'><h1> Hi there <img src="https://www.clipartmax.com/png/small/283-2837537_a-smiling-minion-raises-one-hand-to-wave-hello-thomas-edison-gif.png" alt="A Smiling Minion Raises One Hand To Wave Hello - Thomas Edison Gif @clipartmax.com"></h1></div>
 
 
 ![Piotr's GitHub stats](https://github-readme-stats.vercel.app/api?username=janek2204&show_icons=true&theme=noctis_minimus) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janek2204&show_icons=true&theme=noctis_minimus)

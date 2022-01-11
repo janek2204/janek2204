@@ -4,7 +4,7 @@
 </h1></div>
 
 
-![Piotr's GitHub stats](https://github-readme-stats.vercel.app/api?username=janek2204&show_icons=true&theme=noctis_minimus) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janek2204&show_icons=true&theme=noctis_minimus)
+![Piotr's GitHub stats](https://github-readme-stats.vercel.app/api?username=janek2204&show_icons=true&theme=noctis_minimus)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janek2204&show_icons=true&theme=noctis_minimus)
 
 
 <!--

@@ -1,8 +1,7 @@
 <style>
 .ex1 {
-  width: 500px;
+  width: 50px;
   margin: auto;
-  border: 3px solid #73AD21;
 }
 </style>
 

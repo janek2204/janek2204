@@ -1,6 +1,6 @@
 
-<div align='center'><h1> Hi there </script></h1></div>
-<img src='https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif'>
+<div align='center'><h1> Hi there <img src='https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif'>
+</h1></div>
 
 
 ![Piotr's GitHub stats](https://github-readme-stats.vercel.app/api?username=janek2204&show_icons=true&theme=noctis_minimus) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janek2204&show_icons=true&theme=noctis_minimus)

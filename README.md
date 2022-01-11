@@ -1,4 +1,4 @@
-### Hi there 👋
+<div align='center'>### Hi there 👋</div>
 
 
 ![Piotr's GitHub stats](https://github-readme-stats.vercel.app/api?username=janek2204&show_icons=true&theme=noctis_minimus)

@@ -1,11 +1,6 @@
-<style>
-.ex1 {
-  width: 50px;
-  margin: auto;
-}
-</style>
 
-<div align='center' class='ex1'><h1> Hi there <img src='https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif'>
+
+<div align='center' style='width: 50px'><h1> Hi there <img src='https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif'>
 </h1></div>
 
 

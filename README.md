@@ -1,5 +1,5 @@
 
-<div align='center'><h1 style="color:#fc0303;"> Hiya! <img style='width: 50px' src='https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif'>
+<div align='center'><h1> Hiya! <img style='width: 50px' src='https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif'>
 </h1></div>
 
 <img style='width: 40px' src='https://c.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif'> I’m currently working on finishing my ReadMes and building my portfolio app.<br/>

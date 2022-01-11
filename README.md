@@ -1,5 +1,18 @@
+<style>
+div.ex1 {
+  width: 500px;
+  margin: auto;
+  border: 3px solid #73AD21;
+}
 
-<div align='center'><h1> Hi there <img src='https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif'>
+div.ex2 {
+  max-width: 500px;
+  margin: auto;
+  border: 3px solid #73AD21;
+}
+</style>
+
+<div align='center' class='ex1'><h1> Hi there <img src='https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif'>
 </h1></div>
 
 

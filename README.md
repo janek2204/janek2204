@@ -4,8 +4,8 @@
 </h1></div>
 
 
-🔭 I’m currently working on ... <br/>
-- 🌱 I’m currently learning ... <br/>
+- <img style='width: 50px' src='https://c.tenor.com/qHM65-yUyp4AAAAi/were-working-on-it-stan-marsh.gif'> I’m currently working on ...
+- 🌱 I’m currently learning ... 
 - 📫 How to reach me: 
 - 😄 Pronouns: He / him / his
 

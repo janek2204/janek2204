@@ -1,4 +1,5 @@
-<div align='center'><h1> Hi there <div class="tenor-gif-embed" data-postid="17554626" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626">Waving Hand Joypixels Sticker</a>from <a href="https://tenor.com/search/waving+hand-stickers">Waving Hand Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script></h1></div>
+<div align='center'><h1> Hi there </script></h1></div>
+<div class="tenor-gif-embed" data-postid="17554626" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626">Waving Hand Joypixels Sticker</a>from <a href="https://tenor.com/search/waving+hand-stickers"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js">
 
 
 ![Piotr's GitHub stats](https://github-readme-stats.vercel.app/api?username=janek2204&show_icons=true&theme=noctis_minimus) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janek2204&show_icons=true&theme=noctis_minimus)

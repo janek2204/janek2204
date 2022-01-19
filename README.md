@@ -2,7 +2,7 @@
 <div align='center'><h1> Hiya! <img style='width: 50px' src='https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif'>
 </h1></div>
 
- <h3><img style='width: 40px' src='https://c.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif'>  I’m currently working on finishing my ReadMes and building my portfolio app.</h3><br/>
+ <h3><img style='width: 40px' src='https://c.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif'>  I’m currently working on MERN app. The app will be platform where user can find person who will look after his pet.</h3><br/>
 
 <h3><img style='width: 50px' src='https://c.tenor.com/vdh6gofIR-4AAAAi/never-stop-keep-going.gif'> I’m currently learning React Native.</h3><br/>
 
